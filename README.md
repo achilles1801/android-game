@@ -1,6 +1,6 @@
-# CS2340 Android Game Project
+# Android Mobile Gaming Showcase
 
-This project was developed as a part of the CS2340 course at Georgia Institute of Technology. The Android app offers users the chance to play three classic games, each designed with a unique flair and modern interface.
+The Android app offers users the chance to play three classic games, each designed with a unique flair and modern interface.
 
 ## Features
 
